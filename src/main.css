@@ -1,0 +1,19 @@
+#personal {
+    background-image: url('assets/background-1.jpg');   /* Replace with your image URL */
+    background-size: contain;                     /* Ensures the image covers the entire screen */
+    background-position: top 0;                /* Centers the background image */
+    background-repeat: no-repeat;               /* Prevents the image from repeating */
+    height: 100%;                               /* Ensures the body takes full height */
+}
+
+body {
+    overflow: scroll;
+}
+
+.heading {
+    margin-top: 5%;
+}
+  
+  
+  
+
